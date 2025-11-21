@@ -1,0 +1,19 @@
+# Node modules (required)
+node_modules/
+
+# Optional: package lock if you don't want it committed
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional: Prettier local cache (if used)
+.prettierignore
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
+
+# Optional: editor swap files
+*.swp
+*.swo
+
